@@ -80,3 +80,4 @@
 /Users/alexanderblack/RiderProjects/Mission09_ablack00/Mission09_ablack00/obj/Debug/netcoreapp3.1/Mission09_ablack00.dll
 /Users/alexanderblack/RiderProjects/Mission09_ablack00/Mission09_ablack00/obj/Debug/netcoreapp3.1/Mission09_ablack00.pdb
 /Users/alexanderblack/RiderProjects/Mission09_ablack00/Mission09_ablack00/obj/Debug/netcoreapp3.1/Mission09_ablack00.genruntimeconfig.cache
+/Users/alexanderblack/RiderProjects/Mission09_ablack00/Mission09_ablack00/bin/Debug/netcoreapp3.1/libman.json
