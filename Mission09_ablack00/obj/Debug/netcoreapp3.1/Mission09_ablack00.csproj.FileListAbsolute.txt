@@ -81,3 +81,9 @@
 /Users/alexanderblack/RiderProjects/Mission09_ablack00/Mission09_ablack00/obj/Debug/netcoreapp3.1/Mission09_ablack00.pdb
 /Users/alexanderblack/RiderProjects/Mission09_ablack00/Mission09_ablack00/obj/Debug/netcoreapp3.1/Mission09_ablack00.genruntimeconfig.cache
 /Users/alexanderblack/RiderProjects/Mission09_ablack00/Mission09_ablack00/bin/Debug/netcoreapp3.1/libman.json
+/Users/alexanderblack/RiderProjects/Mission09_ablack00/Mission09_ablack00/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/Category/Default.cshtml.g.cs
+/Users/alexanderblack/RiderProjects/Mission09_ablack00/Mission09_ablack00/obj/Debug/netcoreapp3.1/Razor/Views/Shared/BookSummary.cshtml.g.cs
+/Users/alexanderblack/RiderProjects/Mission09_ablack00/Mission09_ablack00/obj/Debug/netcoreapp3.1/Razor/Pages/Cart.cshtml.g.cs
+/Users/alexanderblack/RiderProjects/Mission09_ablack00/Mission09_ablack00/obj/Debug/netcoreapp3.1/Razor/Pages/_CartLayout.cshtml.g.cs
+/Users/alexanderblack/RiderProjects/Mission09_ablack00/Mission09_ablack00/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/alexanderblack/RiderProjects/Mission09_ablack00/Mission09_ablack00/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewStart.cshtml.g.cs
