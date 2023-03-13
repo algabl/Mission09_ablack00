@@ -1,9 +1,11 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta name="viewport" content="width=device-width"/>
     <title>@ViewData["Title"]</title>
     <link href = "/lib/twitter-bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="/lib/font-awesome/css/all.min.css" rel="stylesheet"/>
 </head>
 <body>
 <div class="bg-dark text-white p-2">
@@ -11,7 +13,13 @@
         <a class="navbar-brand text-white" asp-action="Index">
             Bookstore
         </a>
-        <a class="btn btn-outline-success me-2" asp-page="/Cart">Cart</a>
+        <vc:cart-summary/>
+        @*<form method="get" asp-page="/Cart">
+            <input type="hidden" name="returnUrl" value="@ViewContext.HttpContext.Request.PathAndQuery()"/>
+            <span class="card-text">
+                <button type="submit" class="btn btn-outline-success me-2">Cart</button>
+            </span>
+        </form>*@
     </nav>
 </div>
 <div class="row m-1 p-1">

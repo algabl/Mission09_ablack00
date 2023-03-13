@@ -84,6 +84,8 @@
 /Users/alexanderblack/RiderProjects/Mission09_ablack00/Mission09_ablack00/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/Category/Default.cshtml.g.cs
 /Users/alexanderblack/RiderProjects/Mission09_ablack00/Mission09_ablack00/obj/Debug/netcoreapp3.1/Razor/Views/Shared/BookSummary.cshtml.g.cs
 /Users/alexanderblack/RiderProjects/Mission09_ablack00/Mission09_ablack00/obj/Debug/netcoreapp3.1/Razor/Pages/Cart.cshtml.g.cs
-/Users/alexanderblack/RiderProjects/Mission09_ablack00/Mission09_ablack00/obj/Debug/netcoreapp3.1/Razor/Pages/_CartLayout.cshtml.g.cs
 /Users/alexanderblack/RiderProjects/Mission09_ablack00/Mission09_ablack00/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
 /Users/alexanderblack/RiderProjects/Mission09_ablack00/Mission09_ablack00/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/alexanderblack/RiderProjects/Mission09_ablack00/Mission09_ablack00/obj/Debug/netcoreapp3.1/Razor/Pages/OrderCompleted.cshtml.g.cs
+/Users/alexanderblack/RiderProjects/Mission09_ablack00/Mission09_ablack00/obj/Debug/netcoreapp3.1/Razor/Views/Order/Checkout.cshtml.g.cs
+/Users/alexanderblack/RiderProjects/Mission09_ablack00/Mission09_ablack00/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/CartSummary/Default.cshtml.g.cs

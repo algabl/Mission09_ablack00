@@ -26,8 +26,29 @@ using Mission09_ablack00.Models.ViewModels;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 5 "/Users/alexanderblack/RiderProjects/Mission09_ablack00/Mission09_ablack00/Views/_ViewImports.cshtml"
+using Microsoft.AspNetCore.Mvc.TagHelpers;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 6 "/Users/alexanderblack/RiderProjects/Mission09_ablack00/Mission09_ablack00/Views/_ViewImports.cshtml"
+using Mission09_ablack00.Components;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 7 "/Users/alexanderblack/RiderProjects/Mission09_ablack00/Mission09_ablack00/Views/_ViewImports.cshtml"
+using Mission09_ablack00.Infrastructure;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"67579c1ec68cf664a24b3354492b3e5d45787d40", @"/Views/Home/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"b55f160235e0397abcb70fc050fac16793aae433", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"282226e0c10b1e7a755e192679be072fcd850c23", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<BooksViewModel>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("name", "BookSummary", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -73,7 +94,7 @@ using Mission09_ablack00.Models.ViewModels;
 #line hidden
 #nullable disable
             WriteLiteral("    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "67579c1ec68cf664a24b3354492b3e5d45787d405732", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "67579c1ec68cf664a24b3354492b3e5d45787d406375", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper>();
@@ -104,7 +125,7 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper.Model = b;
 #line hidden
 #nullable disable
             WriteLiteral("\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("div", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67579c1ec68cf664a24b3354492b3e5d45787d407495", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("div", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67579c1ec68cf664a24b3354492b3e5d45787d408138", async() => {
                 WriteLiteral("\n    \n");
             }
             );

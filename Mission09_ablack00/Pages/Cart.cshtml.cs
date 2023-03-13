@@ -10,12 +10,14 @@ namespace Mission09_ablack00.Pages
     {
         private IBookstoreRepository Repo { get; set; }
 
-        public Cart(IBookstoreRepository temp)
+        public Basket Basket { get; set; }
+
+        public Cart(IBookstoreRepository temp, Basket basket)
         {
             Repo = temp;
+            Basket = basket;
         }
         
-        public Basket Basket { get; set; }
         
         public string ReturnUrl { get; set; }
         public void OnGet(string returnUrl)
@@ -31,6 +33,13 @@ namespace Mission09_ablack00.Pages
             Basket.AddItem(b, 1);
 
             HttpContext.Session.SetJson("Basket", Basket);
+            return RedirectToPage(new { ReturnUrl = returnUrl });
+        }
+
+        public IActionResult OnPostRemove(int bookId, string returnUrl)
+        {
+            Basket.RemoveItem(Basket.Items.First(x => x.Book.BookId == bookId).Book);
+
             return RedirectToPage(new { ReturnUrl = returnUrl });
         }
     }

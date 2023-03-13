@@ -26,8 +26,29 @@ using Mission09_ablack00.Models.ViewModels;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 5 "/Users/alexanderblack/RiderProjects/Mission09_ablack00/Mission09_ablack00/Views/_ViewImports.cshtml"
+using Microsoft.AspNetCore.Mvc.TagHelpers;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 6 "/Users/alexanderblack/RiderProjects/Mission09_ablack00/Mission09_ablack00/Views/_ViewImports.cshtml"
+using Mission09_ablack00.Components;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 7 "/Users/alexanderblack/RiderProjects/Mission09_ablack00/Mission09_ablack00/Views/_ViewImports.cshtml"
+using Mission09_ablack00.Infrastructure;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"27a405d7f2fd02cad64ff998e5a829eed2073ce5", @"/Views/Shared/Components/Category/Default.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"b55f160235e0397abcb70fc050fac16793aae433", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"282226e0c10b1e7a755e192679be072fcd850c23", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared_Components_Category_Default : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<IEnumerable<string>>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("asp-controller", "Home", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -61,7 +82,7 @@ using Mission09_ablack00.Models.ViewModels;
         {
             WriteLiteral("\n");
             WriteLiteral("\n<div class=\"d-grid gap-2\">\n    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "27a405d7f2fd02cad64ff998e5a829eed2073ce54863", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "27a405d7f2fd02cad64ff998e5a829eed2073ce55506", async() => {
                 WriteLiteral("All");
             }
             );
@@ -97,7 +118,7 @@ using Mission09_ablack00.Models.ViewModels;
 #line hidden
 #nullable disable
             WriteLiteral("        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "27a405d7f2fd02cad64ff998e5a829eed2073ce57295", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "27a405d7f2fd02cad64ff998e5a829eed2073ce57938", async() => {
 #nullable restore
 #line 12 "/Users/alexanderblack/RiderProjects/Mission09_ablack00/Mission09_ablack00/Views/Shared/Components/Category/Default.cshtml"
                                                                                                                                                                             Write(c);
